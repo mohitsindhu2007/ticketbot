@@ -1,0 +1,53 @@
+{
+    "auto_responses": {
+        "billing": [
+            "Hello! Thanks for contacting our billing department. Could you please provide your order number or transaction ID so we can assist you better?",
+            "Welcome to Phantom Cheats billing support! To help with your inquiry, please share details about your payment method and when the transaction occurred.",
+            "Hi there! I'll be helping with your billing question today. Could you please let me know what specific billing issue you're experiencing?"
+        ],
+        "gaming": [
+            "Hello! Thanks for contacting Phantom Cheats gaming support. Could you please provide details about the game and issue you're experiencing?",
+            "Welcome to gaming support! We're here to help with your game-related issues. What specific game are you having trouble with?",
+            "Hi there! I'll be assisting you with your gaming concerns today. To better help you, could you share which game and what type of issue you're facing?"
+        ],
+        "general": [
+            "Hello! Thanks for contacting Phantom Cheats support. How can I assist you today?",
+            "Welcome to Phantom Cheats support! I'm here to help with your questions or concerns. Please let me know what you need assistance with.",
+            "Hi there! Thanks for reaching out to our support team. Please describe your issue, and I'll do my best to help you."
+        ]
+    },
+    "default_button_emoji": "\ud83c\udfab",
+    "default_button_text": "Create Ticket",
+    "default_close_message": "This ticket has been closed. The channel will be deleted in 5 minutes.",
+    "default_panel_color": 5793266,
+    "default_panel_description": "Click the button below to create a support ticket for Phantom Cheats. Our support team will assist you as soon as possible.",
+    "default_panel_title": "Phantom Cheats Support",
+    "default_ticket_message": "Thank you for contacting Phantom Cheats support. Please describe your issue and wait for a staff member to assist you.",
+    "max_user_tickets": 3,
+    "panel_templates": {
+        "billing": {
+            "button_emoji": "\ud83d\udcb0",
+            "button_text": "Billing Support",
+            "color": 5763719,
+            "description": "Having issues with your payment or subscription? Create a ticket for billing assistance.",
+            "title": "Phantom Cheats Billing Support"
+        },
+        "gaming": {
+            "button_emoji": "\ud83c\udfae",
+            "button_text": "Gaming Support",
+            "color": 15548997,
+            "description": "Need help with your gaming product? Create a ticket and our support team will assist you.",
+            "title": "Phantom Cheats Gaming Support"
+        },
+        "general": {
+            "button_emoji": "\u2753",
+            "button_text": "General Support",
+            "color": 16705372,
+            "description": "Have a question or need general help? Create a ticket and we'll be happy to assist you.",
+            "title": "Phantom Cheats General Support"
+        }
+    },
+    "ticket_close_delay": 300,
+    "ticket_naming_format": "ticket-{user}",
+    "welcome_message": "Welcome to your support ticket, {user}! Please describe your issue with Phantom Cheats and our team will assist you shortly."
+}
